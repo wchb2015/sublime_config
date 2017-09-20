@@ -6,13 +6,17 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"BracketHighlighter",
 		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"Indent XML",
+		"Java Velocity",
+		"jQuery",
 		"Markdown Extended",
 		"Markdown Preview",
 		"Package Control",
+		"Pretty JSON",
 		"SyncedSideBar",
 		"Theme - Flatland",
 		"TrailingSpaces"
-	]
-}
+       	]
+}    
