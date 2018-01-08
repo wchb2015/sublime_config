@@ -7,16 +7,20 @@
 	[
 		"AdvancedNewFile",
 		"Emmet",
+		"Emmet Css Snippets",
+		"FileHeader",
 		"HTML-CSS-JS Prettify",
 		"Indent XML",
 		"Java Velocity",
 		"jQuery",
 		"Markdown Extended",
 		"Markdown Preview",
+		"Nodejs",
 		"Package Control",
 		"Pretty JSON",
+		"SublimeCodeIntel",
 		"SyncedSideBar",
 		"Theme - Flatland",
 		"TrailingSpaces"
-       	]
-}    
+	]
+}
